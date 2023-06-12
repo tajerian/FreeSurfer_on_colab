@@ -1,2 +1,2 @@
-# FreeSurfer_on_colab
+# FreeSurfer on colab
 How to setup FreeSurfer on Google colab
