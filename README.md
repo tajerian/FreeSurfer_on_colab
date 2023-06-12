@@ -4,7 +4,7 @@ $\color{red}{\text{FreeSurfer}}$ is a software package for the analysis and visu
 
 
 <p align="center">
-  <img src="https://github.com/tajerian/FreeSurfer_on_colab/blob/main/FreeSurfer.gif">
+  <img src="https://github.com/tajerian/FreeSurfer_on_colab/blob/master/FreeSurfer.gif">
 </p>
 
 
@@ -12,7 +12,7 @@ FreeSurfer's $\color{red}{\text{recon-all}}$ command takes a long time to proces
 
 For many researchers, this can be a prohibitively long time to wait, especially if the study contains dozens or hundreds of subjects.
 
-***In this [notebook](https://github.com/tajerian/FreeSurfer_on_colab/blob/main/FreeSurfer.ipynb "FreeSurfer on colab") I'll show you how to setup and run Freesurfer on colab to overcome this issue***
+***In this [notebook](https://github.com/tajerian/FreeSurfer_on_colab/blob/master/FreeSurfer.ipynb "FreeSurfer on colab") I'll show you how to setup and run Freesurfer on colab to overcome this issue***
 
 
 
