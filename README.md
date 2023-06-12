@@ -12,6 +12,7 @@ FreeSurfer's $\color{red}{\text{recon-all}}$ command takes a long time to proces
 
 For many researchers, this can be a prohibitively long time to wait, especially if the study contains dozens or hundreds of subjects.
 
-***in this [notebook]([http://eetre](https://github.com/tajerian/FreeSurfer_on_colab/blob/main/FreeSurfer.ipynb) "FreeSurfer on colab") I'll show you how to setup and run Freesurfer to overcome this issue***
+***In this [notebook](https://github.com/tajerian/FreeSurfer_on_colab/blob/main/FreeSurfer.ipynb "FreeSurfer on colab") I'll show you how to setup and run Freesurfer to overcome this issue***
+
 
 
