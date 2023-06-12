@@ -4,7 +4,7 @@ $\color{red}{\text{FreeSurfer}}$ is a software package for the analysis and visu
 
 
 
-![FreeSurfer](https://upload.wikimedia.org/wikipedia/commons/9/9e/Brainanim.gif "FreeSurfer")
+![FreeSurfer](https://github.com/tajerian/FreeSurfer_on_colab/blob/main/FreeSurfer.gif?raw=true")
 
 
 
@@ -12,6 +12,6 @@ FreeSurfer's $\color{red}{\text{recon-all}}$ command takes a long time to proces
 
 For many researchers, this can be a prohibitively long time to wait, especially if the study contains dozens or hundreds of subjects.
 
-***in this notebook I'll show you how to setup and run Freesurfer to overcome this issue***
+***in this [notebook]([http://eetre](https://github.com/tajerian/FreeSurfer_on_colab/blob/main/FreeSurfer.ipynb) "FreeSurfer on colab") I'll show you how to setup and run Freesurfer to overcome this issue***
 
 
